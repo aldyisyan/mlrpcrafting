@@ -2,19 +2,19 @@
   "tambang": {
     "coal": {
       "require": {},
-      "price": 10
+      "price": 7
     },
     "copper_ingot": {
       "require": {
         "copper_ore": 2
       },
-      "price": 26
+      "price": 19
     },
     "iron_ingot": {
       "require": {
         "iron_ore": 2
       },
-      "price": 26
+      "price": 19
     },
     "gold_ingot": {
       "require": {
@@ -26,26 +26,26 @@
       "require": {
         "silver_ore": 2
       },
-      "price": 31
+      "price": 46
     },
     "alluminium_ingot": {
       "require": {
         "alluminium_ore": 2
       },
-      "price": 18
+      "price": 13
     },
     "steel_ingot": {
       "require": {
         "coal": 1,
         "iron_ore": 2
       },
-      "price": 75
+      "price": 56
     },
     "sapphire": {
       "require": {
         "uncut_sapphire": 1
       },
-      "price": 18
+      "price": 13
     },
     "diamond": {
       "require": {
@@ -91,7 +91,7 @@
         "gold_ring": 1,
         "ruby": 4
       },
-      "price": 468
+      "price": 351
     },
     "sapphire_ring": {
       "require": {
